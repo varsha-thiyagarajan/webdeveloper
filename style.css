@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+h1
+{
+    color:rgb(8, 8, 116);
+    text-align: center;
+}
+h3{
+       color:darkolivegreen;
+       text-align:left;
+}
+p{
+    color:rgb(129, 28, 129)
+}
+h2{
+    color:red;
+    text-align:left;
+}
